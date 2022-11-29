@@ -2,7 +2,7 @@
 
 **`Junior Developer (Innovator/Imaginator)`**
 
-Hi, I’m Aalaizha! I'm a self-taught web developer focusing on the FrontEnd of the web. I spend most of my days dabbling with the core languages of web development: Html, CSS, and Javascript. There's no greater joy than using these technologies (and more) to develop and implement an idea using lines of code! I'm also currently learning React to expand my tech stack.
+Hi, I’m Aalaizha! I'm a self-taught web developer focusing on the FrontEnd of the web. I spend most of my days dabbling with the core languages of web development: Html, CSS, and Javascript. There's no greater joy than using these technologies (and more) to develop and implement an idea using lines of code!
 
 ## Languages and Tools
 
