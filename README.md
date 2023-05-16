@@ -31,11 +31,12 @@
 
 <p align="center"> Tech Used: HTML, CSS, JavaScript</p>
 <p align = "center">
-<a margin="50px" href="novelnook.netlify.app" target="_blank" >Live Project </a>
+<a margin="50px" href="https://novelnook.netlify.app/">Live Project </a>
   |
-<a href="[novelnook.netlify.app](https://github.com/LaiDev/NovelNook)" target="_blank" >View Code </a>
+<a href="https://github.com/LaiDev/NovelNook">View Code </a>
 </p>
+<br>
+<br>
 <p align="center">
 <a href="http://www.github.com/laidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laidev&stroke=6366f1&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true&theme=nightowl" width="50%"/></a>
-  
 </p>
