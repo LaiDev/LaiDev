@@ -1,33 +1,25 @@
-# Aalaizha Benjamin
+<h1 align="center">Hi There 👋, I'm Aalaizha Benjamin</h1>
+<h3 align="center">A passionate web developer with a strong love for uncovering the inner workings of technology</h3>
 
-**`Developer (Innovator/Imaginator)`**
+<p align="center"> - 🔭 I’m currently working on [NovelNook](https://novelnook.netlify.app/). </p>
 
-Hi, I’m Aalaizha! I'm a self-taught web developer focusing on the FrontEnd of the web. I spend most of my days dabbling with the core languages of web development: Html, CSS, and Javascript. There's no greater joy than using these technologies (and more) to develop and implement an idea using lines of code!
+<p align="center"> - 🌱 I’m currently learning **Full Stack Web Dev - Java, SQL, NodeJS, React**</p>
 
-[View my Portfolio](https://aalaizhab.me)
+<p align="center"> - 👨‍💻 You can find some of my best work on my portfolio [Portfolio](https://aalaizhabenjamin.netlify.app/). </p>
 
-## Languages and Tools
 
-<img align="left" alt="Html" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:25px;"/>
+<h2 align="center">Connect with me:</h2>
+<p align="center">
+<a href="https://linkedin.com/in/aalaizhabenjamin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aalaizhabenjamin" height="30" width="40" /></a>
+</p>
 
-<img align="left" alt="Css" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:25px;"/>
+<h2 align="center">Languages and Tools:</h2>
+<p align="center"> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+</p>
 
-<img align="left" alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:25px;"/>
 
-<img align="left" alt="Linux" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:25px;"/>
-
-<img align="left" alt="Visual Studio Code" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:25px;"/>
-
-<img align="left" alt="Github" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="padding-right:25px;"/>
-
-<br>
-<br>
-
-## Stats
-
-![Aalaizha's GitHub stats](https://github-readme-stats.vercel.app/api?username=LaiDev&show_icons=true&theme=radical)
-
-<!---
-LaiDev/LaiDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
