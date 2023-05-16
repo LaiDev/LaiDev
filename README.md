@@ -1,12 +1,12 @@
 <h1 align="center">Hi There 👋, I'm Aalaizha Benjamin</h1>
 <h3 align="center">A passionate web developer with a strong love for uncovering the inner workings of technology</h3>
+<p align="center"><img src="https://media3.giphy.com/media/J3KCHKTEqkZuxAW6OQ/giphy.gif?cid=ecf05e47b1b023hqcx6vtb17l1slg7ewfz3nbp03po37scol&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></p>
 
-<p align="center"> - 🔭 I’m currently working on [NovelNook](https://novelnook.netlify.app/). </p>
+<p align="center"> - 🔭 I’m currently working on <a target="_blank" href = "https://novelnook.netlify.app/">NovelNook</a> </p>
 
-<p align="center"> - 🌱 I’m currently learning **Full Stack Web Dev - Java, SQL, NodeJS, React**</p>
+<p align="center"> - 🌱 I’m currently learning Full Stack Web Dev - Java, SQL, NodeJS, React </p>
 
-<p align="center"> - 👨‍💻 You can find some of my best work on my portfolio [Portfolio](https://aalaizhabenjamin.netlify.app/). </p>
-
+<p align="center"> - 👨‍💻 You can find some of my best work on my <a target="_blank" href = "https://aalaizhab.me/">Portfolio</a>. </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
@@ -22,4 +22,20 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
 </p>
 
+<h2 align="center">Recent Projects</h2>
+<h3 align="center">NovelNook</h3>
 
+![NovelNookShowcase](https://github.com/LaiDev/LaiDev/assets/70034760/2c35f057-74d2-4363-ab76-7b2152c3b253)
+
+<p align="center"> NovelNook is a website designed to make it easy for book lovers to find their next great read. The website was created with the idea that book lovers (like myself) shouldn't have to spend hours searching for their next book. By using the NY Times API, NovelNook generates a list of books and their descriptions. Users can then add these books to their personal library, which is saved locally to their device. With its simple and interface, users can streamline the process to find their next best read.</p>
+
+<p align="center"> Tech Used: HTML, CSS, JavaScript</p>
+<p align = "center">
+<a margin="50px" href="novelnook.netlify.app" target="_blank" >Live Project </a>
+  |
+<a href="[novelnook.netlify.app](https://github.com/LaiDev/NovelNook)" target="_blank" >View Code </a>
+</p>
+<p align="center">
+<a href="http://www.github.com/laidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laidev&stroke=6366f1&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true&theme=nightowl" width="50%"/></a>
+  
+</p>
