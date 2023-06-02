@@ -33,7 +33,7 @@
 <p align = "center">
 <a margin="50px" href="https://novelnook.netlify.app/">Live Project </a>
   |
-<a href="https://github.com/LaiDev/NovelNook">View Code </a>
+<a href="https://github.com/LaiDev/NovelNook](https://github.com/LaiDev/NovelNookPublic">View Code </a>
 </p>
 <br>
 <br>
