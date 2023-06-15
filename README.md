@@ -27,9 +27,9 @@
 
 ![NovelNookShowcase](https://github.com/LaiDev/LaiDev/assets/70034760/2c35f057-74d2-4363-ab76-7b2152c3b253)
 
-<p align="center"> NovelNook is a website designed to make it easy for book lovers to find their next great read. The website was created with the idea that book lovers (like myself) shouldn't have to spend hours searching for their next book. By using the NY Times API, NovelNook generates a list of books and their descriptions. Users can then add these books to their personal library, which is saved locally to their device. With its simple and interface, users can streamline the process to find their next best read.</p>
+<p align="center"> NovelNook is a website designed to make it easy for book lovers to find their next great read. The website was created with the idea that book lovers (like myself) shouldn't have to spend hours searching for their next book. By using the NY Times API, NovelNook generates a list of books and their descriptions. which is saved to the Supabase database to ensure data persistence across devices. With its simple and interface, users can streamline the process to find their next best read.</p>
 
-<p align="center"> Tech Used: HTML, CSS, JavaScript</p>
+<p align="center"> Tech Used: HTML, CSS, JavaScript, Supabase</p>
 <p align = "center">
 <a margin="50px" href="https://novelnook.netlify.app/">Live Project </a>
   |
