@@ -37,6 +37,4 @@
 </p>
 <br>
 <br>
-<p align="center">
-<a href="http://www.github.com/laidev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=laidev&stroke=6366f1&currStreakNum=6366f1&currStreakLabel=14b8a6&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true&theme=nightowl" width="100%"/></a>
-</p>
+
