@@ -2,7 +2,7 @@
 <h3 align="center">A passionate web developer with a strong love for uncovering the inner workings of technology</h3>
 <p align="center"><img src="https://media3.giphy.com/media/J3KCHKTEqkZuxAW6OQ/giphy.gif?cid=ecf05e47b1b023hqcx6vtb17l1slg7ewfz3nbp03po37scol&ep=v1_gifs_search&rid=giphy.gif&ct=g"/></p>
 
-<p align="center"> - 🔭 I’m currently working on <a target="_blank" href = "https://novelnook.netlify.app/">NovelNook</a> </p>
+<p align="center"> - 🔭 Take a look at my most recent Full Stack Web App: <a target="_blank" href = "https://novelnook.netlify.app/">NovelNook</a> </p>
 
 <p align="center"> - 🌱 I’m currently learning Full Stack Web Dev - Java, SQL, NodeJS, React </p>
 
