@@ -6,7 +6,7 @@
 
 <p align="center"> - 🌱 I’m currently learning Full Stack Web Dev - Java, SQL, NodeJS, React </p>
 
-<p align="center"> - 👨‍💻 You can find some of my best work on my <a target="_blank" href = "https://aalaizhab.me/">Portfolio</a>. </p>
+<p align="center"> - 👨‍💻 You can find some of my best work on my <a target="_blank" href = "https://aalaizhab.netlify.app/">Portfolio</a>. </p>
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
